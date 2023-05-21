@@ -4,7 +4,7 @@
 <h3 align="center">Our mission is to break down the barriers to campus accessibility, and empower students with disabilities to navigate campus confidently and independently.</h3>
 <h3 align="center"><img height="600" src="https://github.com/CampusBase/.github/blob/main/profile/Mockups.png?raw=true" alt="App Mockups"/></h3>
 
-<h2 align="center">Join the <a href="https://forms.gle/ZaKJVyGFssu4yjmS7" target="blank">wait-list</a>!</h2></br>
+<h3 align="center">Join the <a href="https://forms.gle/ZaKJVyGFssu4yjmS7" target="blank">wait-list</a>!</h3></br>
 
 <h3 align="center">Follow the mission:</h3>
 <p align="center">
